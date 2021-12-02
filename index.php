@@ -15,7 +15,7 @@ require_once 'PointHandler.php';
  			<input type="text" class="form-control" id="inputFileName" placeholder="D://..." name="filename">
 		</div>
 		<div class="col-auto">
-    		<button type="submit" class="btn btn-primary mb-3">Confirm identity</button>
+    		<button type="submit" class="btn btn-primary mb-3">Confirm</button>
   		</div>
   </form>
   <?php

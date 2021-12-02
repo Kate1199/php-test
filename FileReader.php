@@ -1,5 +1,6 @@
 <?php
-	class FileReader {
+require_once 'Reader.php';
+	class FileReader implements Reader {
 
 			private function getPointArray($points = null)
 			{
